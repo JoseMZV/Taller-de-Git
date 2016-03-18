@@ -3,3 +3,5 @@ Esto es uan prueba para el taller de Git
 Otra cosa
 
 tercera linea
+
+Esta linea es para que se vea en el clon.
